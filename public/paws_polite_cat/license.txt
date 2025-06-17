@@ -1,0 +1,8 @@
+Model Information:
+* title:	Paws Polite Cat
+* source:	https://sketchfab.com/3d-models/paws-polite-cat-3eee5c96f9134d439f0dd850804f8684
+* author:	Petarou (https://sketchfab.com/petarou)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
