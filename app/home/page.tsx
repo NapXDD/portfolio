@@ -1,4 +1,5 @@
 "use client";
+import { Button } from "@/components/ui/button";
 import { useState } from "react";
 
 export default function HomePage() {
@@ -12,7 +13,7 @@ export default function HomePage() {
     <div className="flex flex-col">
       <div>{counter}</div>
       <div>
-        <button onClick={handleClick}>Press me!</button>
+        <Button onClick={handleClick}>Press me!</Button>
       </div>
     </div>
   );
